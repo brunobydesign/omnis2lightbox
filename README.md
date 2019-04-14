@@ -65,7 +65,7 @@ You can then open the Omnis2LightBox.lbs library and do a "test form" on the omn
 
 Clicking on one the form's button will call the Lightbox functions with the provided parameters
 
-![Video on top of Omnis Form] (Omnis2LightboxForm2Video.jpeg)
+![Video on top of Omnis Form](Omnis2LightboxForm2Video.jpeg)
 
 
 
