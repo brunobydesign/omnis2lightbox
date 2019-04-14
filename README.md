@@ -60,12 +60,12 @@ Ths Omnis2Lightbox library for Omnis 8.1 demoes how to call BasicLightbox from a
 
 You can then open the Omnis2LightBox.lbs library and do a "test form" on the omnisform class.
 
-![Omnis Form] (https://brunobydesign.github.io/Omnis2LightboxForm.jpeg)
+![Omnis Form] (Omnis2LightboxForm.jpeg)
 
 
 Clicking on one the form's button will call the Lightbox functions with the provided parameters
 
-![Video on top of Omnis Form] (https://brunobydesign.github.io/Omnis2LightboxForm2Video.jpeg)
+![Video on top of Omnis Form] (Omnis2LightboxForm2Video.jpeg)
 
 
 
