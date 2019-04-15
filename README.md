@@ -7,7 +7,7 @@ The project page is https://basiclightbox.electerious.com/
 
 Its github is https://github.com/electerious/basicLightbox
 
-Ths Omnis2Lightbox library for Omnis 8.1 demoes how to call BasicLightbox from an Omnis remoteform, eventually passing parameters from Omnis to the lightbox.
+The Omnis2Lightbox library for Omnis 8.1 demoes how to call BasicLightbox from an Omnis remoteform, eventually passing parameters from Omnis to the lightbox.
 
 
 
